@@ -1,1 +1,33 @@
 
+Microsoft Windows [版本 10.0.15063]
+(c) 2017 Microsoft Corporation. 著作權所有，並保留一切權利。
+
+C:\Users\KSUIE>D:
+
+D:\>D:4070E003\python2\python.exe D:\4070E003\python2\code\BU.py
+1 2 3
+1 2 4
+1 3 2
+1 3 4
+1 4 2
+1 4 3
+2 1 3
+2 1 4
+2 3 1
+2 3 4
+2 4 1
+2 4 3
+3 1 2
+3 1 4
+3 2 1
+3 2 4
+3 4 1
+3 4 2
+4 1 2
+4 1 3
+4 2 1
+4 2 3
+4 3 1
+4 3 2
+
+D:\>
