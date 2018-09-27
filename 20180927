@@ -9,3 +9,19 @@ int main(void)
 #   system("pause");
    return 0;
 }
+
+Question 1:#include <stdio.h>
+include 是何意義??
+http://dict.cn/include
+stdio有何用途?
+https://zh.wikipedia.org/wiki/Stdio.h
+std英文全名為何?
+stdlib
+i是何意義??o是何意義??
+input輸入 output輸出
+h = header =標頭檔有何用途?
+
+Question 2:#include <stdlib.h>
+stdlib有何用途?
+std英文全名為何?
+lib是何意義??
