@@ -23,7 +23,7 @@ Layer-functionties-protocol-hardware-data format
 
 ### Layer-3:network
 >* IP address
->* router(路由器):(動態路由 vs 靜態路由)[路由協定:路怎麼走 RIP BGP] 
+>* router(路由器):(動態路由 vs 靜態路由)[路由協定:路怎麼走 IS-IS、OSPF、IGRP、EIGRP、RIP、BGP。] 
 
 ### Layer-2:Data link
 >* MAC address
