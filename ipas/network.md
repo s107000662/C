@@ -48,16 +48,16 @@ Layer-functionties-protocol-hardware-data format
 >* 不安全
 ### TCP/UDP埠列表
 
->*20/TCP,UDP	檔案傳輸協定 - 預設資料埠
->*21/TCP,UDP	檔案傳輸協定 - 控制埠	
->*22/TCP,UDP	SSH（Secure Shell） - 遠端登入協定，用於安全登入檔案傳輸（SCP，SFTP）及埠重新定向	
->*23/TCP,UDP	Telnet終端仿真協定 - 未加密文字通訊
->*25/TCP,UDP	SMTP（簡單郵件傳輸協定） - 用於郵件伺服器間的電子郵件傳遞
->*53/TCP,UDP	DNS（域名服務系統）
->*80/TCP	超文字傳輸協定（超文字傳輸協定）- 用於傳輸網頁
->*139/TCP,UDP	NetBIOS NetBIOS 對談服務
->*389/TCP,UDP	輕型目錄存取協定 LDAP
->*443/TCP	超文字傳輸安全協定 - 超文字傳輸協定 over TLS/SSL（加密傳輸）
->*514/TCP	遠端外殼 protocol - 用於在遠端電腦上執行非互動式命令，並檢視返回結果
->*514/UDP	Syslog 協定 - 用於系統登入
+>* 20/TCP,UDP	檔案傳輸協定 - 預設資料埠
+>* 21/TCP,UDP	檔案傳輸協定 - 控制埠	
+>* 22/TCP,UDP	SSH（Secure Shell） - 遠端登入協定，用於安全登入檔案傳輸（SCP，SFTP）及埠重新定向	
+>* 23/TCP,UDP	Telnet終端仿真協定 - 未加密文字通訊
+>* 25/TCP,UDP	SMTP（簡單郵件傳輸協定） - 用於郵件伺服器間的電子郵件傳遞
+>* 53/TCP,UDP	DNS（域名服務系統）
+>* 80/TCP	超文字傳輸協定（超文字傳輸協定）- 用於傳輸網頁
+>* 139/TCP,UDP	NetBIOS NetBIOS 對談服務
+>* 389/TCP,UDP	輕型目錄存取協定 LDAP
+>* 443/TCP	超文字傳輸安全協定 - 超文字傳輸協定 over TLS/SSL（加密傳輸）
+>* 514/TCP	遠端外殼 protocol - 用於在遠端電腦上執行非互動式命令，並檢視返回結果
+>* 514/UDP	Syslog 協定 - 用於系統登入
 
