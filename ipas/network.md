@@ -31,7 +31,7 @@ Layer-functionties-protocol-hardware-data format
 
 ### Layer-1:Physical
 >* frame
->* HUb
+>* HUb(集線器)
 
 # TCP
 
